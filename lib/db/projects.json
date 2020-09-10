@@ -25,6 +25,14 @@
 
     {
         "_id": "",
+        "name": "MSKR",
+        "description": "Make Stuff Kinetic Research - Vehicle Design for Scrap Mechanic",
+        "link": "",
+        "images": []
+    },
+
+    {
+        "_id": "",
         "name": "Deep Rock Galactic",
         "description": "Unsanctioned art and design for Deep Rock Galactic",
         "link": "",
