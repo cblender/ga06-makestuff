@@ -1,0 +1,29 @@
+{
+  "name": "ga06-makestuff",
+  "version": "1.0.0",
+  "description": "The MakeStuff API provides a concise way to fetch project information for display.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.10.4",
+    "nodemon": "^2.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "console.log(\"FIRED! test command\")",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cblender/ga06-makestuff.git"
+  },
+  "author": "Chris Blendermann",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cblender/ga06-makestuff/issues"
+  },
+  "homepage": "https://github.com/cblender/ga06-makestuff#readme"
+}
