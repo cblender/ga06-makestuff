@@ -14,7 +14,7 @@
   "devDependencies": {},
   "scripts": {
     "test": "console.log(\"FIRED! test command\")",
-    "start": "node server.js"
+    "start": "node ./lib/server.js"
   },
   "repository": {
     "type": "git",
