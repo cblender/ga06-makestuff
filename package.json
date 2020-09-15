@@ -1,7 +1,7 @@
 {
   "name": "ga06-makestuff",
   "version": "1.0.0",
-  "description": "The MakeStuff API provides a concise way to fetch project information for display.",
+  "description": "The MakeStuff API provides a concise way to store and fetch project information for display.",
   "main": "index.js",
   "directories": {
     "lib": "lib"
